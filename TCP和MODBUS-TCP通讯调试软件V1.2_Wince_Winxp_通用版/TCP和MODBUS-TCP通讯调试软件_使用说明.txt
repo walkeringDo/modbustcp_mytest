@@ -1,0 +1,25 @@
+TCP和MODBUS-TCP通讯调试软件V1.2_Wince_Winxp_通用版
+    本软件可以运行于 WINCE5 /WINCE6 /WINCE7 及 WINXP/ WIN7 等系统下，
+软件设计环境 VB2005，要求装有 NET2.0 环境，对您学习MODBUS/TCP有帮助，
+还可做TCP调试器， 此软件免费使用。
+功能如下：
+    1.多网卡支持，点击“网卡X”处可自动切换网卡IP。
+    2.增加MODBUS寄存器个数至9999。
+    3.修改一次最多读写寄存器个数120个。
+    4.增加WIN7等高版本系统支持。
+    5.欢迎交流，指正，本软件免费。
+软件运行要求：
+    1.WINCE 系统上可以直接运行。
+    2.WINXP 系统上没装 VS2005 或更高版的 VS 软件的用户，可以到网
+    上先下载 NET2.0 安装包，20M左右，安装了NET2.0安装包后可用。
+
+                                     2015.01.05  陈  
+                                     QQ:30312142 
+
+
+TCP MODBUS-TCP Debugging Software V1.2-(Wince & Winxp).Zip
+
+
+
+
+                                                          
